@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HukaYmuL0IHwuMGzjIW7xdmCfwoyvbjRes6JGUMFsDBQS4C0/n2VLhtfFdL+BcuMEN5ArXaqZRqYskFApiY2KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilmer\\Desktop\\progra aplicada 2\\laboratorio1Wilmer\\laboratorio1Wilmer\\laboratorio1Wilmer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilmer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Wilmer\\.nuget\\packages\\nuget.frameworks\\6.1.0\\nuget.frameworks.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
